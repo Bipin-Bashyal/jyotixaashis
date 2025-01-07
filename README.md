@@ -30,17 +30,14 @@
     </div>
     <div class="container">
         <a href="#details1" class="card">
-            <img src="1.jpg" alt="">
+            <img src="5.jpg" alt="">
             <div class="caption">Her captivating smile</div>
         </a>
         <a href="#details2" class="card">
-            <img src="2.jpg" alt="Image 2">
+            <img src="6.jpg" alt="Image 2">
         </a>
         <a href="#details3" class="card">
-            <img src="3.jpg" alt="Image 3">
-        </a>
-        <a href="#details4" class="card">
-            <img src="4.jpg" alt="Image 4">
+            <img src="7.jpg" alt="Image 3">
         </a>
     </div>
     <div class="tooltip">
